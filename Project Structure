@@ -1,0 +1,14 @@
+Spotify_database/
+│
+├── database/
+│   ├── schema.sql
+│   ├── data.sql
+│
+├── server/
+│   ├── db.js
+│   ├── index.js
+│   ├── routes/
+│   │   └── songs.js
+│
+├── package.json
+└── README.md
